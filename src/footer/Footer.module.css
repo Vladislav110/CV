@@ -1,0 +1,40 @@
+.footer {
+    min-height: 25vh;
+    background-color: olivedrab;
+}
+
+.container {
+    height: 100%;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid;
+    flex-wrap: wrap;
+}
+
+.title {
+    background-color: blueviolet;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100px;
+    min-width:250px;
+    background-color: yellow;
+
+}
+
+.icon {
+    height: 50px;
+    width: 50px;
+    background-color: blueviolet;
+}
+
+.rights {
+    background-color: greenyellow;
+}
