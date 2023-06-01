@@ -40,3 +40,12 @@
     height: 35px;
     margin-bottom: 10px;
 }
+
+@media screen and (max-width: 365px) {
+    .textPlace {
+        width: 100%;
+    }
+    .textArea {
+        width: 100%;
+    }
+}
